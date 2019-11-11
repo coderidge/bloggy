@@ -25,3 +25,10 @@ Containers created and their ports are as follows:
 - **nginx** - `:8080`
 - **mysql** - `:3307`
 - **php** - `:9000`
+
+## Project 
+
+* Use top menu to navigate
+* Initial registration is required to create a blog
+* Blogs can be created, edited and deleted only by the creator of blog 
+* Comments can be made by a logged in user on any Blog posts  
